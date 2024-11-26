@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzWK1JSF6NwxpQpTGndBX15XlC4R3xhlq28Ui8i/w8ES94UF0hTUg4ESQU2S8Loyc2LeNxwHii1nvEpdiGq16A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pyh98z\\Source\\Repos\\kovkata\\ferencvaros\\IT_miafasz\\IT_miafasz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pyh98z\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
